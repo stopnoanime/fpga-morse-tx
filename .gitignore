@@ -1,0 +1,8 @@
+*
+!.gitignore
+!adc.adc
+!pll.ipc
+!pll.vhd
+!top.vhdl
+!fpga-morse-tx.al
+!readme.md

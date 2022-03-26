@@ -1,0 +1,3 @@
+set_pin_assignment	{ clk_in }	{ LOCATION = K14; }
+set_pin_assignment	{ rf }	{ LOCATION = A4; IOSTANDARD = LVCMOS33; DRIVESTRENGTH = 20; }
+
